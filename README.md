@@ -1,6 +1,6 @@
 # ProjetoJabuticaba
 
-O projeto Jabuticaba, desenvolvido na disciplina de Design de Interação sob a orientação do professor Daniel, visa criar uma marca e identidade visual coesas para um aplicativo mobile ainda não especificado. A partir de um processo criativo colaborativo, a equipe concebeu a marca "Jabuticaba" e construiu um Style Guide completo, definindo a paleta de cores, tipografia, ícones e demais elementos visuais que compõem a identidade da marca.
+O projeto Jabuticaba, desenvolvido na disciplina de Design de Interação sob a orientação do professor Daniel, visa criar uma marca e identidade visual coesas para um aplicativo mobile voltado para profissionais da saúde que trabalham de forma Liberal. A partir de um processo criativo colaborativo, a equipe concebeu a marca "Jabuticaba" e construiu um Style Guide completo, definindo a paleta de cores, tipografia, ícones e demais elementos visuais que compõem a identidade da marca.
 
 ![image](https://github.com/user-attachments/assets/d8c1762f-3d36-4cd8-a9f6-4d238343b47e)
 
