@@ -14,6 +14,8 @@ Utilizando técnicas de design centrado no usuário, como Storyboards e Storytel
 
 Para finalizar o projeto, foi desenvolvido um protótipo funcional da interface do aplicativo utilizando HTML e CSS, demonstrando a aplicação prática da identidade visual e das interações definidas nos protótipos iniciais. O resultado final é uma proposta de aplicativo com uma identidade visual forte e uma experiência de usuário intuitiva e agradável.
 
-[imagem]
+![image](https://github.com/user-attachments/assets/1a40a31a-ce22-44e2-bf1f-292af8ef945b)
+![image](https://github.com/user-attachments/assets/8e4b71fe-516d-42bc-b44c-b87474115fc8)
+
 
 
